@@ -1,0 +1,9 @@
+BEFORE RUNNING PROGRAM ATENTION HERE:
+1.import pyttsx3 
+#pip install pyttsx3
+2.import speech_recognition as sr 
+#pip install speechRecognition
+3.import wikipedia 
+#pip install wikipedia
+4.import pyaudio
+#pip install pyaudio
